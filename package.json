@@ -1,0 +1,8 @@
+{
+  "name": "cache-memory-simulator",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Syllabus-based interactive cache memory and architecture learning labs",
+  "scripts": { "test": "node tests/engine.test.cjs" },
+  "engines": { "node": ">=18" }
+}
